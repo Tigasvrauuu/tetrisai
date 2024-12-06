@@ -1,0 +1,1 @@
+echo "No build/test commands specified in project"

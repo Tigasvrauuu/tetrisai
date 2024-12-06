@@ -1,0 +1,1 @@
+echo "No setup required - this is a static web project"
