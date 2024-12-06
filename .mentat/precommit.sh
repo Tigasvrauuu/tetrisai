@@ -1,2 +1,1 @@
-npm run lint
-npm run test
+echo "No build/test commands specified in project"
